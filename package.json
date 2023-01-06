@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-practice-landing",
+  "version": "1.0.0",
+  "description": "This is a solution to the [Manage landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5).",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./dist/main.css",
+    "watch": "tailwindcss -i ./src/input.css -o ./dist/main.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imkevinchu/tailwind-practice-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imkevinchu/tailwind-practice-landing/issues"
+  },
+  "homepage": "https://github.com/imkevinchu/tailwind-practice-landing#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
