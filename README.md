@@ -2,12 +2,9 @@
 
 This is a solution to the [Manage landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5).
 
-## Layout
+[Live preview](https://imkevinchu.github.io/tailwind-practice-landing/)
 
-The designs were created to the following widths:
-
-- Mobile: 375px
-- Desktop: 1440px
+![Desktop preview image from Frontend Mentor](./src/img/desktop-preview.jpg)
 
 ## Colors
 
